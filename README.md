@@ -1,14 +1,15 @@
-### Olá! Eu sou o Ageu Ribeiro 🙋
+# Análise de Dados - Titanic 🙋
 
 <p>🧑‍💻 - Atualmente buscando novos desafios </p>
-<p>👨‍🎓 - Estudando Análise e Ciência de Dados, Desenvolvimento Web FrontEnd com HTML5, CSS3, JavaScript, VueJS e Backend com as tecnologias Python, SQL, Flask  </p>
-<p>📩 - Contate-me através do e-mail: ageu87@gmail.com ou channelsystemti@gmail.com</p>
-<p>🗣️ - Pronouns: Ele/Dele</p>
+
 
 <div align="center">
   <a href="https://github.com/ageuribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageuribeiro&show_icons=true&theme=darkbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageuribeiro&layout=compact&langs_count=7&theme=gruvebox"/>
+</div>
+
+<div align="center">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ageu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
